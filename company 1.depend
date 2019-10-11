@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1565699779 source:c:\users\hp\documents\company 1\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<windows.h>
+	<iomanip>
+	<string>
+
